@@ -1,0 +1,36 @@
+# Matplotlib Configuration File
+# Updated: 4 March 2024
+# Save as: matplotlibrc
+
+# Figure properties
+figure.figsize: 20, 12
+savefig.facecolor: white
+
+# Lines
+lines.linewidth: 3
+lines.markersize: 10
+
+# Axes
+axes.linewidth: 1
+
+# Font
+font.family: sans-serif
+font.sans-serif: Arial
+font.size: 24
+font.weight: normal
+
+# Tick labels
+xtick.labelsize: 24
+ytick.labelsize: 24
+
+# Tick properties
+xtick.major.width: 1
+xtick.major.size: 10
+ytick.major.width: 1
+ytick.major.size: 10
+
+# Math text (Arial)
+mathtext.fontset: custom
+mathtext.rm: Arial
+mathtext.it: Arial:italic
+mathtext.bf: Arial:bold

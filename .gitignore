@@ -1,0 +1,20 @@
+# Data folders
+AAE datasets/
+aligned CSV/
+CO-CO2-NOx/
+drone data/
+field data/
+literature emission factors/
+QAQC/
+shortwave radiation/
+unaligned AE33 + ABCD/
+unaligned gases/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
