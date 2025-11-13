@@ -18,3 +18,9 @@ unaligned gases/
 __pycache__/
 *.pyc
 *.pyo
+
+# macOS
+.DS_Store
+
+# Backup files
+*.save
